@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="601px" height="598px" viewBox="0 0 601 598" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Bai Ze</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bai-Ze">
+            <g id="dots" fill="#FFD098">
+                <rect id="Rectangle" x="600" y="0" width="1" height="1"></rect>
+                <rect id="Rectangle" x="0" y="597" width="1" height="1"></rect>
+            </g>
+            <path d="M255.6,53.8249662 C266.4,34.0249662 285.3,49.3249662 288,57.4249662 C289.225848,61.1025102 287.594213,65.1523984 284.903476,69.3580144 C273.260066,68.7351806 262.527646,69.0984297 252.662837,70.2488349 L251.755926,70.3630549 C251.554139,69.7263927 251.367755,69.084555 251.197409,68.4381991 C251.852725,62.8753049 253.320369,58.0042893 255.6,53.8249662 Z" id="Path" stroke="#FFF1DF" stroke-width="2.7" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

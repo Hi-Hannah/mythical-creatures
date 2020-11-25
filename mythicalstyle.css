@@ -1,0 +1,65 @@
+
+  
+  body {
+    background-color:#8393ca;
+  }
+  
+  h1 {
+    font-size: 60px;
+    color: #C6C8C7;
+    font-family: 'UnifrakturMaguntia', cursive;
+  }
+
+  h2 {
+    font-size: 20px;
+    color: #3E4E84;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif, bold;
+    margin: 10px;
+  }
+
+  h3 {
+    font-size: 16px;
+    color: #3e4e84d2;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    margin: 10px;
+
+  }
+
+
+  g :hover {
+    opacity: 1.0;
+    stroke: rgb(255, 255, 255);
+    fill: rgba(255, 255, 255, 0.11);
+    cursor: pointer;
+  }
+
+  path{
+    stroke: rgb(255, 255, 255);
+    fill: rgba(255, 255, 255, 0.178);
+    opacity: 0;
+    z-index: 1;
+}
+
+.combined {
+    display: inline-block;
+    position: relative;
+  }
+.combined > :first-child ~ * {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+
+#Oval {
+    opacity: 0.5;
+    fill: #35457B;
+    stroke:#35457B;
+    stroke-width: 1px;
+  }
+.firstDiv {
+    margin:40px;    
+}
+

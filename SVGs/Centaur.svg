@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="601px" height="598px" viewBox="0 0 601 598" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Centaur</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Centaur">
+            <g id="dots" fill="#FFD098">
+                <rect id="Rectangle" x="600" y="0" width="1" height="1"></rect>
+                <rect id="Rectangle" x="0" y="597" width="1" height="1"></rect>
+            </g>
+            <path d="M301.5,466.924966 C330.087541,473.459261 340.88466,525.952146 322.454936,549.057781 C290.66053,552.06556 258.781965,542.604234 234.431749,529.121677 C270.518872,514.710507 298.132297,482.803326 286.562621,466.513774 L286.2,466.024966 L286.04746,465.832526 C291.803855,465.607781 297.039861,465.905506 301.5,466.924966 Z" id="Path" stroke="#FFF1DF" stroke-width="2.7" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="601px" height="598px" viewBox="0 0 601 598" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Camahueto</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Camahueto">
+            <g id="dots" fill="#FFD098">
+                <rect id="Rectangle" x="600" y="0" width="1" height="1"></rect>
+                <rect id="Rectangle" x="0" y="597" width="1" height="1"></rect>
+            </g>
+            <path d="M262.441345,163.215061 C270.503687,174.947392 281.843162,176.080285 291.020078,176.070434 L292.08941,176.064573 L292.08941,176.064573 L296.127827,176.004124 C302.337022,175.93193 306.657882,176.275808 306.657882,181.264611 C306.657882,183.719267 301.963601,186.070094 294.486223,187.551129 L293.495287,187.739312 C291.650211,188.07504 289.650739,188.359126 287.523007,188.581096 L286.349863,188.695948 C278.643786,189.401621 269.385165,189.302544 259.738723,187.931918 C261.204109,180.104546 262.100184,172.01352 262.4265,163.658716 L262.441345,163.215061 Z" id="Path" stroke="#FFF1DF" stroke-width="2.7" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>
